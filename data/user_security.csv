@@ -1,0 +1,2 @@
+email,password,length_ok,has_upper,has_lower,has_digit,has_special,common_password,used_personal_info
+samannew@gmail.com,$2b$12$/1Mgv1b3Vt1l5pIX/ZN54ejwfbG1IHzrilJdcJGs8yeLAGffLhV9y,true,false,true,true,true,false,true
