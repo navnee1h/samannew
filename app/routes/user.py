@@ -195,3 +195,7 @@ def reset_password():
 def logout():
     session.clear()
     return redirect(url_for('user.login'))
+    
+@user_bp.route('/')
+def index():
+    return render_template('register.html')
